@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is the home page for the Cardano Stake Pool Bazar!
-This Stake Pool exist only on the Preprod Net...
+This Stake Pool exists only on the Preprod Net...
 <!--
 **stakepoolbazar/stakepoolbazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
