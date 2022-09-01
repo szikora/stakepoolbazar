@@ -1,0 +1,21 @@
+{
+  "LocalRoots": {
+    "groups": [
+      {
+        "localRoots": {
+          "accessPoints": [
+            {
+                 "address":"x.x.x.x",
+                "port": 3003
+            }
+          ],
+          "advertise": false
+        },
+        "valency": 1
+      }
+    ]
+  },
+  "PublicRoots": [
+  ],
+  "useLedgerAfterSlot": 4642000
+}
